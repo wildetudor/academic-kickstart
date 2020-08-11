@@ -10,12 +10,7 @@ authors:
   - admin
 bio: SHORT BIOGRAPHY (SHOWN IN AUTHOR BOXES) (OPTIONAL)
 interests:
-  - Music cognition
-  - Neuroimaging
-  - Music theory
-  - Numerical cognition
-  - Statistics
-  - Data science
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
