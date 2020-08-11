@@ -9,8 +9,6 @@ superuser: true
 authors:
   - admin
 bio: SHORT BIOGRAPHY (SHOWN IN AUTHOR BOXES) (OPTIONAL)
-interests:
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
