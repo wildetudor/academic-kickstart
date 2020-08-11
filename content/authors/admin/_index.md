@@ -11,10 +11,9 @@ authors:
 bio: cica biografia
 interests:
   - Music cognition
-  - Music and language
-  - Numerical cognition
-  - Syntax
   - Neuroimaging
+  - Music theory
+  - Numerical cognition
   - Statistics
   - Data science
 social:
@@ -27,9 +26,9 @@ social:
 education:
   courses:
     - year: 2015
-      course: PhD (DPhil) Experimental Psychology
+      course: DPhil Experimental Psychology
       institution: University of Oxford
-    - course: MSc (MRes) Experimental Psychology
+    - course: MRes Experimental Psychology
       institution: University of Durham
       year: 2009
     - course: BSc Electronic Engineering
