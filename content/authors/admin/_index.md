@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: cica biografia
+bio: SHORT BIOGRAPHY (SHOWN IN AUTHOR BOXES) (OPTIONAL)
 interests:
   - Music cognition
   - Neuroimaging
