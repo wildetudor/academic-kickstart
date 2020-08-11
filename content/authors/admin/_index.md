@@ -4,7 +4,7 @@ role: Postdoctoral researcher
 avatar_filename: tudor.jpg
 organizations:
   - name: University of Vienna
-    url: https://cogbio.univie.ac.at/people/postdoctoral-researchers/tudor-popescu/
+    url: ""
 superuser: true
 authors:
   - admin
