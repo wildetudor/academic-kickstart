@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Postdoc"
   company = "University of Vienna"
   company_url = "https://cogbio.univie.ac.at/people/postdoctoral-researchers/tudor-popescu/"
-  date_start = "2018"
+  date_start = "Jan 2018"
   date_end = ""
   description = """
 Postdoctoral researcher in Prof. Tecumseh Fitch's group at the Department of Behavioural and Cognitive Biology at the University of Vienna, in collaboration with Prof. Roland Beisteiner of the Medical University of Vienna. 
