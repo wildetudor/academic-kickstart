@@ -21,19 +21,19 @@ date_format = "Jan 2006"
   title = "Postdoc"
   company = "University of Vienna"
   company_url = "https://cogbio.univie.ac.at/people/postdoctoral-researchers/tudor-popescu/"
-  date_start = "Jan 2018"
+  date_start = "Mar 2018"
   date_end = ""
   description = """
 Postdoctoral researcher in Prof. Tecumseh Fitch's group at the Department of Behavioural and Cognitive Biology at the University of Vienna, in collaboration with Prof. Roland Beisteiner of the Medical University of Vienna. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoc"
+  company = "TU Dresden"
+  company_url = "https://www.facebook.com/DresdenMusicCognitionLab"
+  date_start = "Feb 2015"
+  date_end = ""
+
+Institute of Art and Musicology- Dresden Music Cognition Lab. 
 
 +++
