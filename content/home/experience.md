@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Vienna"
   company_url = "https://cogbio.univie.ac.at/people/postdoctoral-researchers/tudor-popescu/"
   date_start = "Mar 2018"
-  date_end = ""
+  date_end = "Nov 2020"
   description = """
 Postdoctoral researcher in Prof. Tecumseh Fitch's group at the Department of Behavioural and Cognitive Biology at the University of Vienna, in collaboration with Prof. Roland Beisteiner of the Medical University of Vienna. 
   """
@@ -32,8 +32,7 @@ Postdoctoral researcher in Prof. Tecumseh Fitch's group at the Department of Beh
   company = "TU Dresden"
   company_url = "https://www.facebook.com/DresdenMusicCognitionLab"
   date_start = "Feb 2015"
-  date_end = ""
-
+  date_end = "Oct 2017"
+  description = """
 Institute of Art and Musicology- Dresden Music Cognition Lab. 
-
-+++
+  """
